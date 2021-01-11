@@ -1,0 +1,22 @@
+{
+  "Server_http": {
+    "url": "http://127.0.0.1:8888/public_html/dumb.zip",
+    "nom_zip": "dumb.zip",
+    "nom_fichier": "dumb.db",
+    "ext": "db",
+    "dateFormat": "%Y-%m-%d"
+  },
+
+  "sftp": {
+    "hostname": "172.20.10.3",
+    "username": "adamsftp",
+    "password": "motdepasse"
+  },
+  "mail": {
+    "hostname" : "smtp.tse.fr",
+    "port" : "587",
+    "login" : "admin@tse.fr",
+    "password" : "motdepasse",
+    "to" : "dest@tse.fr"
+  }
+}
